@@ -1,4 +1,9 @@
 # Usage
+Restore package with:
+```
+composer install
+```
+
 Remplace variables in config.php file and upload to server.
 
 ```php
